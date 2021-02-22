@@ -1,10 +1,12 @@
-If i=10 Then
+<html>
+<head>
+<title>My First VBScript Code!!!</title>
+</head>
+<body>
 
-msgbox(“This is my first script, Click OK to close”)
+<script type="text/vbscript">
+document.write("Yes!!! I have started learning VBScript.")
+</script>
 
-Else
-
-msgbox(“Hello world”)
-
-End if
-
+</body>
+</html>
